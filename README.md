@@ -4,3 +4,7 @@ This repo  helps you generate the discount  you are awarded based on age gap and
   - I use the input function to enable user enter their age.
   - I made use of various variable to aid data storage.
   - I made use of the conditional statement (if, elif, else) to assign discount and price to age
+
+
+Author: Toyin Alo
+Technical Mentor: [Caleb Duff](https://www.github.com/duffigoogle)
