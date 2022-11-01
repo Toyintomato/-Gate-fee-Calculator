@@ -46,7 +46,7 @@ elif age >= 31 and age <= 60:
 elif age >= 61 and age <= 65:
    print(f"You have a discount of {per_discount_10} percent, so your gate fee is {ammount_10} {N}")
 elif age >= 66:
-   print(f"You have a discount of {per_discount_100} percent, so your gate fee is {ammount_100} {N}")
+   print("Go and enjoy yourself cuz you'll soon meet your creator")
 else:
   print(" please you are supposed to be with your creator.")
   
